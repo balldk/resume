@@ -1,0 +1,1 @@
+Download my CV here: [CV.pdf](https://github.com/balldk/resume/releases/download/1.0.0/CV.pdf)
